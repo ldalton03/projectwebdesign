@@ -1,5 +1,5 @@
 /* External stylesheet*/
-/* External stylesheet*/
+
 nav {
     background-color:  rgba(5, 91, 119, 0.836);
     padding: 5px;
@@ -31,7 +31,7 @@ nav ul li:hover {
 }
 header {
    
-    background-image: url(../images/aerialviewbeepark.jpg);
+    
     background-repeat: no-repeat;
     background-size: cover;
     height: 200px;
