@@ -1,0 +1,179 @@
+/* External stylesheet*/
+/* External stylesheet*/
+nav {
+    background-color:  rgba(5, 91, 119, 0.836);
+    padding: 5px;
+}
+nav ul{
+    text-align: center;
+    font-size: 1.2em;
+}
+
+nav ul li {
+    list-style: none ;
+    background-color: rgba(5, 91, 119, 0.836);
+    display: inline;
+    padding: 15px;
+    margin: 5px;
+    text-align: center;
+    border-radius: 5px;
+    border-style:groove;
+    border-color: #b2b2b2;
+}
+nav ul li a { color: white;
+    text-decoration: none;
+
+text-align: center;
+
+}
+nav ul li:hover {
+    background-color: rgb(60, 40, 175);
+}
+header {
+   
+    background-image: url(../images/aerialviewbeepark.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    
+}
+footer {
+    clear:both;
+    padding: 3px;
+    margin: 0px;
+    position:relative;
+    bottom: 0px;
+    width: 100%;
+    background-color: rgba(5, 91, 119, 0.836);
+    
+    
+}
+
+footer ul li a { color: white;
+    text-decoration: none;
+
+    
+text-align: center;
+}
+footer ul li{
+    list-style: none ;
+    background-color:  rgba(5, 91, 119, 0.836);
+    display: inline;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+    border-radius: 5px;
+    border-style:groove;
+    border-color: #b2b2b2;
+   
+ }
+
+ .footer ul li a {
+    color: white;
+ }
+
+
+body{
+    font-family: verdana;
+    margin: 0;
+    color:  rgba(142, 161, 163, 0.836);
+    text-align: center;
+    background-color: rgba(142, 161, 163, 0.836);
+}
+
+main{
+    text-align: center;
+    color: white;
+}
+    
+#content {
+    float: left;
+    width: 78.5%;
+    border: 3px solid grey;
+    height: 40%;
+}
+aside {
+    border: 2px solid darkgray;
+    width: 18.5%;
+    float:right;
+    color: white;
+    
+}
+aside ul li:hover {
+    background-color: rgba(212, 211, 219, 0.452);
+
+}
+
+aside ul a{
+    color: white;
+}
+.maps{
+    width: 18.5%;
+}
+h1  {
+    text-align: left;
+    font-weight: bold;
+}
+h2{
+    text-align: left;
+}
+aside ul li a{
+    color: darkslategray;
+    text-decoration: none;
+    
+}
+    aside ul li {
+        list-style: none;
+    }
+
+    .col_detail {
+        column-count: 3;
+        column-rule: 1px solid white;
+        column-gap: 50px;
+        padding: 2px;
+
+    }
+
+    .col_detail a {
+        color: antiquewhite;
+    }
+
+h4{
+    text-align: left;
+    
+    font-size: small;
+    
+}
+
+.videohome {
+    float:left;
+    width: 40%;
+    border: 2px solid white;
+    max-height: 450px;
+    min-height: 450px;
+    overflow: auto;
+    float: left;
+}
+.required{
+    font-weight:bold;
+    color:red;
+}
+.label {
+    float:left;
+    width: 112px;
+    padding-right:10px;
+    text-align: right;
+}
+
+.input {
+    margin-left: 1em;
+    margin-bottom: .5em;
+    width: 220;
+
+}
+
+
+
